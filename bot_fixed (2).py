@@ -269,11 +269,9 @@ def _safe_get(url: str, timeout: int = 12, lat: float = 0, lng: float = 0) -> re
         return None
 
 # ── Admin & Channel Settings ────────────────────────────────────────────────
-ADMIN_ID = 8034386458
+ADMIN_ID = 8951202322
 FORCE_CHANNELS = [
-    {"username": "@SanyXUpdates", "url": "https://t.me/SanyXUpdates",  "name": "SanyX Updates"},
-    {"username": "@SanyXLooters", "url": "https://t.me/SanyXLooters",  "name": "SanyX Looters"},
-    {"username": "@StarXLooters", "url": "https://t.me/StarXLooters",  "name": "StarX Looters"},
+    {"username": "@Sheinxupdatelive", "url": "https://t.me/Sheinxupdatelive",  "name": "SanyX Updates"},
 ]
 _USERS: dict     = {}
 _VERIFIED: set   = set()
