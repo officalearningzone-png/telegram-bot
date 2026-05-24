@@ -271,7 +271,7 @@ def _safe_get(url: str, timeout: int = 12, lat: float = 0, lng: float = 0) -> re
 # ── Admin & Channel Settings ────────────────────────────────────────────────
 ADMIN_ID = 8951202322
 FORCE_CHANNELS = [
-    {"username": "@Sheinxupdatelive", "url": "https://t.me/Sheinxupdatelive",  "name": "SanyX Updates"},
+    {"username": "@Sheinxupdatelive", "name": "Sany x Update"},
 ]
 _USERS: dict     = {}
 _VERIFIED: set   = set()
