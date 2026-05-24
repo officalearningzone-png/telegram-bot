@@ -19,7 +19,7 @@ from telegram.ext import (
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "8989968199:AAGei3GSOUDef0AHfzDRFfH9KImHvoG9sCo"
+BOT_TOKEN = "8989968199:AAEZBjmFXG6F7gDvnMca2D8PyKDCK8Jc5Do"
 
 (MAIN_MENU, PICK_CITY, PICK_RESTAURANT, RESULTS, PICK_BUDGET, PICK_SPLIT, PICK_PINCODE) = range(7)
 
